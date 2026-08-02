@@ -16,6 +16,6 @@
 
 ## 截图
 
-<img width="1358" height="636" alt="image" src="https://github.com/user-attachments/assets/297516ee-6b7c-4d84-921d-29faaf987b1a" />
+<img width="1358" height="636" alt="image" src="https://github.com/user-attachments/assets/296516ee-6b7c-4d84-921d-29faaf987b1a" />
 
 <img width="1358" height="636" alt="image" src="https://github.com/user-attachments/assets/6b66d57e-5866-4214-bd02-7e5f5981dde3" />
