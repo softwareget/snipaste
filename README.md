@@ -1,1 +1,1 @@
-请看[README](./download/README)
+请看[README](./download/README.md)
